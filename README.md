@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm Nirmal<br>Welcome to my GitHub profile! I'm passionate about crafting innovative solutions through full-stack development. With a focus on ReactJS, NodeJS, Express, and MySQL, I strive to build robust and user-friendly applications that make a difference.<br><br>About Me<br>💻 Full-stack developer<br>🌱 Always learning and exploring new technologies<br>🚀 Committed to delivering high-quality code and scalable solutions<br>What I Do<br>I specialize in:<br><br>Building interactive user interfaces with ReactJS<br>Developing scalable server-side applications with NodeJS and Express<br>Designing and managing databases using MySQL
+Hi there! 👋 I'm Nirmal<br>Welcome to my GitHub profile! I'm passionate about crafting innovative solutions through full-stack development. With a focus on ReactJS, NodeJS, Express, and MySQL, I strive to build robust and user-friendly applications that make a difference.<br><br>About Me<br>💻 Full-stack developer<br>🌱 Always learning and exploring new technologies<br>🚀 Committed to delivering high-quality code and scalable solutions<br>What I Do<br>I specialize in:<br><br>Building interactive user interfaces with ReactJS<br>Developing scalable server-side applications with NodeJS and Express<br>Designing and managing databases using MySQL<br> Proficient knowledge in using Git , Jira , Scrum.
 
+Check my resume on :<a href='https://drive.google.com/file/d/1iNhLzPGsXKd0QCPc64jOyIweTjOKbiOd/view'>Here</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https:www.linkedin.com/in/nirmal-n](https://www.linkedin.com/in/nirmal-n/)) 
